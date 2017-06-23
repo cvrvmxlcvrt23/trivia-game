@@ -20,7 +20,6 @@
     choices: [20, 30, 40, 50, 64],
     correctAnswer: 4
   }];
-  
   var questionCounter = 0; //Tracks question number
   var selections = []; //Array containing user choices
   var quiz = $('#quiz'); //Quiz div object
